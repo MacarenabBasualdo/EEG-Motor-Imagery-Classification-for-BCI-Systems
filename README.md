@@ -85,8 +85,9 @@ O pipeline está organizado em 4 fases sequenciais, cada uma implementada em seu
 ## 📂 Contenido del Repositorio / Repository Content / Conteúdo do Repositório
 
 ```text
-├── Fase_1_EDA.ipynb      # Extracción de características y análisis exploratorio (EDA)
-├── Fase_2_1_ML.ipynb     # Selección de features, modelos clásicos y BCI Illiteracy
-├── Fase_3_DL.ipynb       # Entrenamiento y evaluación de EEGNet
-├── Fase_4_.ipynb         # Test de Robustez (cross-subject / cross-dataset)
-└── README.md             # Documentación del proyecto
+├── Fase_1_EDA.ipynb                        # Extracción de características y análisis exploratorio (EDA)
+├── Fase_2_Seleccion_de_Features.ipynb      # Selección de features, modelos clásicos y BCI Illiteracy
+├── Fase_2_1_ML.ipynb                       # Entrenamiento de modelos 
+├── Fase_3_DL.ipynb                         # Entrenamiento y evaluación de EEGNet
+├── Fase_4_.ipynb                           # Test de Robustez (cross-subject / cross-dataset)
+└── README.md                               # Documentación del proyecto
